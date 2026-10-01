@@ -1,5 +1,5 @@
 package Ejercicio2
 
-class Categoria {
-
-}
+enum class Categoria {
+    ALIMENTACIO, BEGUDES, NETEJA, FRESCOS
+    }

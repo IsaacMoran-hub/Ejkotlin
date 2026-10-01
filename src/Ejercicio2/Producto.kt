@@ -1,5 +1,5 @@
 package Ejercicio2
 
-class Producto (val nombre: Int, val preu: Float, val precio: Float, val categoria: String ) {
+class Producto (val id: Int, var preu: Float, var stock: Int, val categoria: String ) {
 }
 
